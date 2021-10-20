@@ -42,3 +42,8 @@ nav a:hover
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.flex
+{
+    display: flex;
+    justify-content: space-around;
+}
