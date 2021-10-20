@@ -1,0 +1,19 @@
+nav
+{
+    display: flex;
+    justify-content: space-around;
+}
+nav a 
+{
+    padding: 10px 30px;
+    border : black 2px solid;
+    text-decoration: none;
+    border-style: inset;
+    border-radius: 10px;
+}
+a:hover
+{
+    background-color: aqua;
+    box-shadow: 1px 1px 5px black;
+    transition: 0.5s;
+}
